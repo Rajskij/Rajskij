@@ -27,19 +27,8 @@ I thrive in **agile environments**, solving complex challenges through **clean c
 
 ### **EPAM Systems (02/2021 – 01/2025)**  
 🔹 *Software Engineer* (05/2022 – Present)  
-- Built and optimized **backend services** using **Java 17 (Spring Boot)**, **Python**, and **AWS**, improving system efficiency by **30%**.  
-- Designed and implemented **scalable APIs** for seamless enterprise integration with **high-security standards**.  
-
 🔹 *Junior Software Engineer* (06/2021 – 05/2022)  
-- Led the migration of on-premise systems to **AWS cloud**, achieving a **50% boost in system efficiency** and **60% cost reduction**.  
-- Increased test coverage from **60% to 85%**, reducing **critical bugs by 25%** and improving product stability.  
-
 🔹 *Internship Trainee* (02/2021 – 06/2021)  
-- Collaborated with senior engineers on **code reviews**, improving **code quality and release stability**.  
-
-### **Previous Experience**  
-- **Technical Project Manager (2019 – 2021)**: Led **end-to-end software projects**, managing requirements, system design, and execution.  
-- **Architectural Engineer (2013 – 2019)**: Applied **logical structuring and problem-solving** in large-scale architectural projects.  
 
 ---
 
