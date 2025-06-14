@@ -14,10 +14,19 @@ I am a **Software Engineer** with **4+ years** of experience in designing, build
 
 I thrive in **agile environments**, solving complex challenges through **clean code, system design, and automation**. Passionate about **high-performance computing, security best practices, and scalable architectures**.  
 
-🔹 **Backend & APIs**: Java (Spring Boot, Micronaut), Python, Hibernate, REST APIs  
-🔹 **Cloud & DevOps**: AWS (EC2, RDS, Lambda, SQS, SNS, ECS, ELB), Docker, Kubernetes, Terraform  
-🔹 **System Architecture**: Microservices, OAuth2 Authentication, Caching, Performance Optimization  
-🔹 **Best Practices**: Agile, TDD, CI/CD, Infrastructure as Code (IaC), Security  
+🔹 **Backend & APIs:** Java, JavaScript (Node.js, Express), Python, Hibernate, REST APIs
+
+🔹 **Frameworks:** Spring Boot, Micronaut, Express.js
+
+🔹 **Frontend:** React, HTML, CSS, JavaScript, Redux
+
+🔹 **DB:** MongoDB, MySQL
+
+🔹 **Cloud & DevOps:** AWS (EC2, RDS, Lambda, SQS, SNS, ECS, ELB), Docker, Kubernetes, Terraform
+
+🔹 **System Architecture:** Microservices, OAuth2 Authentication, Caching, Performance Optimization
+
+🔹 **Best Practices:** Agile, TDD, CI/CD, Infrastructure as Code (IaC), Security
 
 ---
 
