@@ -22,30 +22,30 @@ Let me know if you’d like a version tailored for LinkedIn, resume, or personal
 
 I thrive in **agile environments**, solving complex challenges through **clean code, system design, and automation**. Passionate about **high-performance computing, security best practices, and scalable architectures**.  
 
-🔹 **Backend & APIs:** Java, JavaScript (Node.js, Express), Python, Hibernate, REST APIs
+- **Backend & APIs:** Java, JavaScript (Node.js, Express), Python, Hibernate, REST APIs
 
-🔹 **Frameworks:** Spring Boot, Micronaut, Express.js
+- **Frameworks:** Spring Boot, Micronaut, Express.js
 
-🔹 **Frontend:** React, HTML, CSS, JavaScript, Redux
+- **Frontend:** React, HTML, CSS, JavaScript, Redux
 
-🔹 **DB:** MongoDB, MySQL
+- **DB:** MongoDB, MySQL
 
-🔹 **Cloud & DevOps:** AWS (EC2, RDS, Lambda, SQS, SNS, ECS, ELB), Docker, Kubernetes, Terraform
+- **Cloud & DevOps:** AWS (EC2, RDS, Lambda, SQS, SNS, ECS, ELB), Docker, Kubernetes, Terraform
 
-🔹 **System Architecture:** Microservices, OAuth2 Authentication, Caching, Performance Optimization
+- **System Architecture:** Microservices, OAuth2 Authentication, Caching, Performance Optimization
 
-🔹 **Best Practices:** Agile, TDD, CI/CD, Infrastructure as Code (IaC), Security
+- **Best Practices:** Agile, TDD, CI/CD, Infrastructure as Code (IaC), Security
 
 ---
 
 ## Professional Experience  
 ### **Toptal (03/2025 – Present)**  
-🔹 *Software Engineer and Developer* (03/2025 – Present)  
+- *Software Engineer and Developer* (03/2025 – Present)  
 
 ### **EPAM Systems (02/2021 – 01/2025)**  
-🔹 *Software Engineer* (05/2022 – Present)  
-🔹 *Junior Software Engineer* (06/2021 – 05/2022)  
-🔹 *Internship Trainee* (02/2021 – 06/2021)  
+- *Software Engineer* (05/2022 – Present)  
+- *Junior Software Engineer* (06/2021 – 05/2022)  
+- *Internship Trainee* (02/2021 – 06/2021)  
 
 ---
 
