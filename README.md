@@ -1,6 +1,7 @@
-# 💻 Ihor Haidukov  
+# Ihor Haidukov  
 
-🚀 **Software Engineer | Cloud & DevOps Enthusiast | AWS Certified**  
+**Software Engineer | Cloud & DevOps Enthusiast | AWS Certified**  
+
 📍 NYC, NY | 🌎 Open to Relocation  
 📧 ihor.haidukov@gmail.com  
 [![Discord](https://camo.githubusercontent.com/7c80e7e5644b591e16ef6dd9abdf7bd45c04f25e425cd66760ce1fcecac06262/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d2532333732383944412e7376673f6c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465)](https://discord.com/channels/rajskij)
@@ -8,7 +9,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I’m a **Software Engineer** with over **4 years of experience** building and improving **scalable web applications** and **cloud-based systems**. My work spans the **full stack**, with a strong focus on **backend development**, **RESTful APIs**, and **cloud integration**.
 
@@ -37,7 +38,7 @@ I thrive in **agile environments**, solving complex challenges through **clean c
 
 ---
 
-## 💼 Professional Experience  
+## Professional Experience  
 ### **Toptal (03/2025 – Present)**  
 🔹 *Software Engineer and Developer* (03/2025 – Present)  
 
@@ -48,16 +49,16 @@ I thrive in **agile environments**, solving complex challenges through **clean c
 
 ---
 
-## 📜 Certifications & Education  
+## Certifications & Education  
 
-🎓 **Master’s & Bachelor’s Degrees** | National Aviation University, Ukraine  
-📜 **AWS Certified Solutions Architect – Associate (2023)**  
-📜 **AWS Certified Cloud Practitioner (2023)**  
-📜 **Java Global Mentoring Program, EPAM Systems (2022)**  
+**Master’s & Bachelor’s Degrees** | National Aviation University, Ukraine  
+**AWS Certified Solutions Architect – Associate (2023)**  
+**AWS Certified Cloud Practitioner (2023)**  
+**Java Global Mentoring Program, EPAM Systems (2022)**  
 
 ---
 
-### ✨ **Let’s Connect!**  
+### **Let’s Connect!**  
 
 If you're interested in discussing **software engineering, cloud solutions, or DevOps**, feel free to reach out!  
 
