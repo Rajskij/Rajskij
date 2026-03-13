@@ -11,14 +11,11 @@
 
 ## About Me
 
-I’m a **Software Engineer** with over **4 years of experience** building and improving **scalable web applications** and **cloud-based systems**. My work spans the **full stack**, with a strong focus on **backend development**, **RESTful APIs**, and **cloud integration**.
+I’m a **Software Engineer** with over **5 years of experience** building and improving **scalable web applications** and **cloud-based systems**. My work spans the **full stack**, with a strong focus on **backend development**, **RESTful APIs**, and **cloud integration**.
 
 I work primarily with **Java (Spring Boot, Micronaut)**, **Node.js (Express)** on the backend, and I’m also experienced with **React** and modern frontend tools. I’ve built solutions using **MongoDB**, **MySQL**, and deployed applications on **AWS**.
 
----
-
-Let me know if you’d like a version tailored for LinkedIn, resume, or personal website!
-  
+---  
 
 I thrive in **agile environments**, solving complex challenges through **clean code, system design, and automation**. Passionate about **high-performance computing, security best practices, and scalable architectures**.  
 
