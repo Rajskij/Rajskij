@@ -1,6 +1,6 @@
 # Ihor Haidukov  
 
-**Software Engineer | Cloud & DevOps Enthusiast | AWS Certified**  
+**Software Engineer | Java • Node.js • AWS | LLM Integration | AWS Certified**  
 
 📍 NYC, NY | 🌎 Open to Relocation  
 📧 ihor.haidukov@gmail.com  
